@@ -84,7 +84,7 @@ body {
     text-transform: uppercase;
 }
 
-.task, .task-title {
+.task {
     margin: 0;
     font-size: 18px;
     line-height: 18px;
@@ -97,7 +97,7 @@ body {
     color: #888;
 }
 
-.task:focus, .task-title:focus {
+.task:focus {
     color: #333;
 }
 
