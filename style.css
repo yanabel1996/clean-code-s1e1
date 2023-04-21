@@ -155,7 +155,7 @@ body {
 
 /* Completed */
 
-.task-title--done {
+.completed .task-title {
     text-decoration: line-through;
     color: #888;
 }
